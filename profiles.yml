@@ -1,0 +1,3 @@
+my-profile:
+  outputs:
+      location: europe-north1 # Optional, one of US or EU, or a regional location
